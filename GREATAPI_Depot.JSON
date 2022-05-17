@@ -8,5 +8,15 @@
         "supported_kernels": ">=3.5.4",
         "target": "v5",
         "version": "0.0.10"
+    },
+    {
+        "metadata": {
+            "location": "https://github.com/plebbbb/GREATAPI/releases/download/v0.0.11/greatapi@0.0.11.zip"
+        },
+        "name": "greatapi",
+        "py/object": "pros.conductor.templates.base_template.BaseTemplate",
+        "supported_kernels": ">=3.6.0",
+        "target": "v5",
+        "version": "0.0.11"
     }
 ]
